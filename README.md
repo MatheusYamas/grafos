@@ -59,3 +59,8 @@ Parque          |	0	0	0	0	0
 Nomes dos Lugares: ['Academia', 'Parque']
 ==================================================
 ```
+Integrantes do grupo:
+- Gustavo Lazzari
+- Mateus Roese
+- Matheus Yamamoto
+- Victor Ryuki
